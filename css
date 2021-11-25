@@ -1,2 +1,19 @@
+*{
+  font-family:'Poppins', sans-serif;
+}
+.content{
+width:100%:}
+
+.iten-list{
+width:100%:}
+
 .item{
-color:blue;}
+height:5rem;}
+
+.tite{
+color:#F5F5F5;
+font-size:1.75rem;}
+
+.description{
+color:#F5F5F5;
+font-size:1.75rem;}
